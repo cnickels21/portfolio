@@ -6,9 +6,9 @@ Estimate of time needed to complete: 1 hour
 
 Start time: 11:11 am
 
-Finish time:
+Finish time: 12:21 pm
 
-Actual time needed to complete:
+Actual time needed to complete: Just over an hour
 
 ## Number and name of feature:  Modify the Contents - Feature 2
 

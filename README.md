@@ -16,6 +16,6 @@ Estimate of time needed to complete: 2 hours
 
 Start time: 12:30
 
-Finish time: 
+Finish time: 1:20 - still have a couple things to wrap up for the lab
 
-Actual time needed to complete:
+Actual time needed to complete: 1 hour + another half an hour to do color and font scheme
